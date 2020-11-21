@@ -1,18 +1,22 @@
-<link rel="stylesheet" type="text/css" media="all" href="style/style.css">
+# Hi there, I'm Aswin
 
-### Hi there, I'm Aswin
------------------------
 
 ## I'm a Student, Learner, Developer and a Tech Enthusiast!!
-- 🎓I'm a student of [RIT, Kottayam][ritSite].
-- 📚I'm currently learning Javascript <img alt="Javascript" src="icons/js.svg" width="18px">
-- I'm looking forward to learn React <img alt="React" src="icons/react.svg" width="18px"> and Flask <img alt="Django" src="icons/django.svg" width="30px">
+- 🎓 I'm a student of [RIT, Kottayam][ritSite].
+- 📖 I'm currently learning Javascript <img alt="Javascript" src="icons/js.svg" width="18px">
+- 📔 I'm looking forward to learn React <img alt="React" src="icons/react.svg" width="18px">
+- 🙊 Im an Ambivert
+- ♥ I loves Cricket 🏏 and Dogs 🐶
 
 
-# Reach me on:
+### Reach me on:
 [<img alt="Instagram" src="icons/insta.svg" float="left" width="30px">][myInsta] [<img alt="LinkedIn" src="icons/linkedin.svg" float="left" width="30px">][myln]
 [<img alt="Facebook" src="icons/facebook.svg" float="left" width="30px">][myFB] [<img alt="Twitter" src="icons/twitter.svg" float="left" width="30px">][myTwitter]
 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=aswinkr77&count_private=true&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinkr77)
 
 
 [ritSite]: http://www.rit.ac.in/
