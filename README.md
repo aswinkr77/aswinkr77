@@ -5,13 +5,13 @@
 
 ## I'm a Student, Learner, Developer and a Tech Enthusiast!!
 - 🎓I'm a student of [RIT, Kottayam][ritSite].
-- 📚I'm currently learning Javascript<img alt="Javascript" src="icons/js.svg" class="js">
+- 📚I'm currently learning Javascript<img alt="Javascript" src="icons/js.svg" style="width:18px">
 - 
 
 
 # Reach me on:
-[<img alt="Instagram" src="icons/insta.svg">][myInsta] [<img alt="LinkedIn" src="icons/linkedin.svg">][myln]
-[<img alt="Facebook" src="icons/facebook.svg">][myFB] [<img alt="Twitter" src="icons/twitter.svg">][myTwitter]
+[<img alt="Instagram" src="icons/insta.svg" float="left" width="30px">][myInsta] [<img alt="LinkedIn" src="icons/linkedin.svg" float="left" width="30px">][myln]
+[<img alt="Facebook" src="icons/facebook.svg" float="left" width="30px">][myFB] [<img alt="Twitter" src="icons/twitter.svg" float="left" width="30px">][myTwitter]
 
 
 
