@@ -5,8 +5,8 @@
 
 ## I'm a Student, Learner, Developer and a Tech Enthusiast!!
 - 🎓I'm a student of [RIT, Kottayam][ritSite].
-- 📚I'm currently learning Javascript<img alt="Javascript" src="icons/js.svg" style="width:18px">
-- 
+- 📚I'm currently learning Javascript <img alt="Javascript" src="icons/js.svg" width="18px">
+- I'm looking forward to learn React <img alt="React" src="icons/react.svg" width="18px"> and Flask <img alt="Django" src="icons/django.svg" width="30px">
 
 
 # Reach me on:
