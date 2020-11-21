@@ -1,4 +1,4 @@
-# Hi there, I'm Aswin
+# Hi there, I'm Aswin <img alt="Waving Hand" src="gif/wave.gif" width="30px">
 
 
 ## I'm a Student, Learner, Developer and a Tech Enthusiast!!
@@ -16,7 +16,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=aswinkr77&count_private=true&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinkr77)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinkr77&theme=vue)
 
 
 [ritSite]: http://www.rit.ac.in/
