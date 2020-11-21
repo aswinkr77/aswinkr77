@@ -1,4 +1,4 @@
-# Hi there, I'm Aswin <img alt="Waving Hand" src="gif/wave.gif" width="30px">
+# Hi there, I'm Aswin <img alt="Waving Hand" src="gif/wave" width="30px">
 
 
 ## I'm a Student, Learner, Developer and a Tech Enthusiast!!
