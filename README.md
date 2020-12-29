@@ -6,7 +6,7 @@
 - 📖 I'm currently learning Javascript <img alt="Javascript" src="icons/js.svg" width="18px">
 - 📔 I'm looking forward to learn React <img alt="React" src="icons/react.svg" width="18px">
 - 🙊 Im an Ambivert
-- ♥ I loves Cricket 🏏 and Dogs 🐶
+- ♥ I love Cricket 🏏 and Dogs 🐶
 
 
 ## Languages I know:
