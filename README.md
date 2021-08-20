@@ -3,9 +3,9 @@
 
 ## I'm a Student, Learner, Developer and a Tech Enthusiast!!
 - 🎓 I'm a student of [RIT, Kottayam][ritSite].
-- 📖 I'm currently learning Javascript <img alt="Javascript" src="icons/js.svg" width="18px">
-- 📔 I'm looking forward to learn React <img alt="React" src="icons/react.svg" width="18px">
-- 🙊 Im an Ambivert
+- 📖 I'm currently learning React JS and Node JS
+- 📔 I'm looking forward to learn Cybersecurity and Machine Learning
+- 🙊 I'm an Ambivert
 - ♥ I love Cricket 🏏 and Dogs 🐶
 
 
