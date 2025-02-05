@@ -1,10 +1,7 @@
 # Hi there, I'm Aswin <img alt="Waving Hand" src="gif/wave" width="40px">
 
 
-## I'm a Student, Learner, Developer and a Tech Enthusiast!!
-- 🎓 I'm a student of [RIT, Kottayam][ritSite].
-- 📖 I'm currently learning React JS and Node JS
-- 📔 I'm looking forward to learn Cybersecurity and Machine Learning
+## I'm a Learner, Developer and a Tech Enthusiast!!
 - 🙊 I'm an Ambivert
 - ♥ I love Cricket 🏏 and Dogs 🐶
 
